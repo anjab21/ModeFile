@@ -1,4 +1,4 @@
-# ModeFile
+# SELFT BOT
 pkg instal python3 -y 
 apt-get instal python --upgrade 
 pkg instal git -y 
